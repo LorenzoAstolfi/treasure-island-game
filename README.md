@@ -11,6 +11,6 @@ This is a simple text-based adventure game written in Python.
 6. Follow the instructions and type your choices in the terminal.
 
 ## Requirements
-- Python 3
+- Python 3 (if you don't have Python, here's the link: https://www.python.org/downloads/)
 
 Have fun 😄!
