@@ -1,6 +1,6 @@
 # Treasure Island Game 🏴‍☠️
 
-This is a simple text-based adventure game written in Python.
+This is a simple project written in Python!
 
 ## How to play
 1. Make sure you have Python 3 installed on your computer.
