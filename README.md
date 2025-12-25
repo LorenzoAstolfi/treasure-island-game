@@ -12,6 +12,5 @@ This is a simple text-based adventure game written in Python.
 
 ## Requirements
 - Python 3
-- A computer and a terminal
 
 Have fun 😄!
