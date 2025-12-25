@@ -7,7 +7,7 @@ This is a simple text-based adventure game written in Python.
 2. Download the file `TreasureIsland.py`.
 3. Open a terminal or command prompt.
 4. Go to the folder where the file is saved.
-5. Run the game using this command: `cd Downloads && py treasure_island.py`.
+5. Run the game using this command: `cd Downloads && py TreasureIsland.py`.
 6. Follow the instructions and type your choices in the terminal.
 
 ## Requirements
